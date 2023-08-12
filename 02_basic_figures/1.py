@@ -1,7 +1,7 @@
 #柱状图
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-#rcParams设定基础设置，以支持中文显示
+#rcParams设定基础设置，以支持中文的显示
 mpl.rcParams["font.sans-serif"]=["SimHei"]
 mpl.rcParams["axes.unicode_minus"]=False
 
